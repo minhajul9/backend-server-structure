@@ -1,0 +1,5 @@
+index.js is the main file which will execute. All the routes will be written in this file. 
+
+Database folder is to create connection with database.
+
+Admin is like all functions that Admin can execute. We can create other folder for users, customers etc. 
